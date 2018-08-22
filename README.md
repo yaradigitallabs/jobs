@@ -8,3 +8,9 @@ On this repo you find all open positions on Yara Digital Labs. They are listed a
 On the issue you have all the infos, but if need more details, please comment on it.
 
 Please, take a look! ;)
+
+<br/>
+
+<p align="center">
+<img src="https://s15.postimg.cc/nsk5hacm3/Captura_de_Tela_2018-08-21_a_s_22.38.19.png" width="150"/>
+  </p>
